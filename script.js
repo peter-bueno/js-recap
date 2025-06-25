@@ -1,5 +1,5 @@
-//Variaveis
-
+//Sintax, Variaveis, Tipos de dados, Operadores aritmeticos basicos  
+/*
 //declaração automatica
 num1 = 5;
 num2 = 10;
@@ -42,7 +42,7 @@ let total = price1 + price2;
 
 
 //Testando
-
+/*
 let nomeCarro;
 
 nomeCarro =  "Honda fit";
@@ -123,7 +123,7 @@ let x = 100 + 50 * 3;
  * - Promises e mais;
 
 */
-
+/*
 // Numbers:
 let length = 16;
 let weight = 7.5;
@@ -145,4 +145,5 @@ const cars = ["Saab", "Volvo", "BMW"];
 //Date Object
 const date = new Date("2022-03-25");
 
-console.log(pessoa.firstName)
+console.log(pessoa.firstName)*/
+
