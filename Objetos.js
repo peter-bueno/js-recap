@@ -100,3 +100,19 @@ tipo_primitivo.height = 250;
 
 document.getElementById("img-tabela-container").append(titulo);
 document.getElementById("img-tabela-container").appendChild(tipo_primitivo);
+
+
+//Objetos em Javascript são MUTAVEIS
+
+//OBJETOS SÃO REFERENCIADOS POR REFERENCIA
+//EX:
+const x = pessoa1;
+
+/**O objeto x não é uma copia de pessoa1.
+ * O objeto x é pessoa1
+ * O objeto x e o objeto pessoa1 compartilham o mesmo endereço de memoria
+ * Qualquer mudança em x, também altera pessoa1.
+ * 
+ * x.age = 10; ALTERA IDADE DE pessoa1
+ */
+
